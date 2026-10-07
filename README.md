@@ -1,2 +1,2 @@
 # Python-Portfolio
-Python projects and exercises: Numpy, Pandas, Matplotlib, Scikit-learn etc
+Python projects and practice: Numpy, Pandas, Matplotlib, Scikit-learn.
